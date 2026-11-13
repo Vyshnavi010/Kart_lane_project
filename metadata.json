@@ -1,0 +1,6 @@
+{
+  "name": "SHOPVERSE",
+  "description": "Modern e-commerce storefront with real-time multi-filter sidebar for product category, dual-handle INR price range, star rating, search, and sorting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
